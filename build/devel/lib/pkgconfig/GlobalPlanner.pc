@@ -1,0 +1,8 @@
+prefix=/home/junwoo/study_ws/src/GlobalPlanner/build/devel
+
+Name: GlobalPlanner
+Description: Description of GlobalPlanner
+Version: 0.0.0
+Cflags: -I/home/junwoo/study_ws/src/GlobalPlanner/include
+Libs: -L${prefix}/lib 
+Requires: 
